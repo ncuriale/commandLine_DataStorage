@@ -1,0 +1,19 @@
+2012 Field Lining
+
+
+Field	Start-Up(1X)	+	(  PRICE   x   # of times  )	=	Total
+
+
+Oak Football	100	+	(  50	x   13  )	=	750  
+
+Oak Minis	100	+	(  50	x   14  )	=	800 	
+
+STA		200	+	(  50	x   11  )	=	750
+
+Tournament		+	(  100	x   2  )	=	200
+
+Subtotal						=	2500
+
+Paint							=	894.94
+
+Total							=	3394.94
